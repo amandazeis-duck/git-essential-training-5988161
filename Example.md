@@ -1,2 +1,2 @@
 This is content.
-This is another line. 
+This is another line!
