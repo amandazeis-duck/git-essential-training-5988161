@@ -23,7 +23,7 @@
   "githubPullRequests.ignoredPullRequestBranches": [
     "main"
   ],
-  // "files.exclude": {
-  //   "**/.git": false
-  // }
+  "files.exclude": {
+    "**/.git": false
+  }
 }
